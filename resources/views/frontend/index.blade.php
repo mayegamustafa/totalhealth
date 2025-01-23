@@ -1,5 +1,5 @@
 @extends('frontend.layouts.master')
-@section('title','E-SHOP || HOME PAGE')
+@section('title','Total Your Health || HOME PAGE')
 @section('main-content')
 <!-- Slider Area -->
 @if(count($banners)>0)
@@ -144,8 +144,8 @@
                                                 @php
                                                     $after_discount=($product->price-($product->price*$product->discount)/100);
                                                 @endphp
-                                                <span>${{number_format($after_discount,2)}}</span>
-                                                <del style="padding-left:4%;">${{number_format($product->price,2)}}</del>
+                                                <span>UGX{{number_format($after_discount,2)}}</span>
+                                                <del style="padding-left:4%;">UGX{{number_format($product->price,2)}}</del>
                                             </div>
                                         </div>
                                     </div>
@@ -235,11 +235,11 @@
                             <div class="product-content">
                                 <h3><a href="{{route('product-detail',$product->slug)}}">{{$product->title}}</a></h3>
                                 <div class="product-price">
-                                    <span class="old">${{number_format($product->price,2)}}</span>
+                                    <span class="old">UGX{{number_format($product->price,2)}}</span>
                                     @php
                                     $after_discount=($product->price-($product->price*$product->discount)/100)
                                     @endphp
-                                    <span>${{number_format($after_discount,2)}}</span>
+                                    <span>UGX{{number_format($after_discount,2)}}</span>
                                 </div>
                             </div>
                         </div>
@@ -287,7 +287,7 @@
                                 <div class="col-lg-6 col-md-6 col-12 no-padding">
                                     <div class="content">
                                         <h4 class="title"><a href="#">{{$product->title}}</a></h4>
-                                        <p class="price with-discount">${{number_format($product->discount,2)}}</p>
+                                        <p class="price with-discount">UGX{{number_format($product->discount,2)}}</p>
                                     </div>
                                 </div>
                                 </div>
@@ -345,7 +345,7 @@
                 <div class="single-service">
                     <i class="ti-rocket"></i>
                     <h4>Free shiping</h4>
-                    <p>Orders over $100</p>
+                    <p>Orders over UGX 300,OOO</p>
                 </div>
                 <!-- End Single Service -->
             </div>

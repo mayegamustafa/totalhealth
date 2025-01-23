@@ -87,7 +87,7 @@
 									<i class="fa fa-envelope-open"></i>
 									<h4 class="title">Email:</h4>
 									<ul>
-										<li><a href="mailto:info@yourwebsite.com">@foreach($settings as $data) {{$data->email}} @endforeach</a></li>
+										<li><a href="mailto:totalhealthherbalist@gmail.com ">@foreach($settings as $data) {{$data->email}} @endforeach</a></li>
 									</ul>
 								</div>
 								<div class="single-info">
@@ -108,7 +108,7 @@
 	<!-- Map Section -->
 	<div class="map-section">
 		<div id="myMap">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14130.857353934944!2d85.36529494999999!3d27.6952226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sne!2snp!4v1595323330171!5m2!1sne!2snp" width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.758302128358!2d32.56862463459619!3d0.31427016335626007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dbd4246eb0d5f%3A0xf8d9ff0ce6e3e0ac!2sHIJAB%20CITY!5e0!3m2!1sen!2sug!4v1737641471088!5m2!1sen!2sug" width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 		</div>
 	</div>
 	<!--/ End Map Section -->
