@@ -3,9 +3,9 @@
   [![GitHub forks](https://img.shields.io/github/forks/Prajwal100/Complete-Ecommerce-in-laravel-10.svg)](https://github.comPrajwal100/Complete-Ecommerce-in-laravel-10/network)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
   
-### HIRE ME:- https://www.upwork.com/freelancers/~01210bb2575a8c05a9
+### HIRE ME:- https://www.upwork.com/freelancers/~0163531ebcf30cf3e4
 
-## Complete E-commerce website in  Laravel 10
+## Complete Total Your Health E-commerce website in  Laravel 10
 
 
 #### Setup video : https://www.youtube.com/watch?v=URX5D1A5XQ4&t=19s
@@ -114,12 +114,12 @@ Many more....
  ## Author Contact
   Contact me with any questions!<br>
 
-  Email: Prajwal.iar@gmail.com
-  Whatsapp: +977-9818441226
+  Email: mayegaidris@gmail.com
+  Whatsapp: +256 776003035 / +256 700517516
 
   ## License
   This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
 <hr>
-  Copyright © 2023 [Prajwal R.](https://raiprajwal.com/)
+  Copyright © 2025 [Mayega mustafa.](https://www.upwork.com/freelancers/~0163531ebcf30cf3e4/)
   
 <p style="text-align:center">Thank You so much for your time !!!</p>
